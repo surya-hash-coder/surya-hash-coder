@@ -1,188 +1,180 @@
 <div align="center">
 
-# 👋 Hey, I'm Jay Surya
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer;Python+Developer;Firebase+Enthusiast;QA+Automation+Learner;Building+AI+Powered+Applications" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=200&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=root%40jay-surya%3A~%24+whoami;Full+Stack+Developer;Python+Developer;Firebase+Engineer;AI+Application+Builder;Automation+Testing+Learner;System+Ready..." />
 
 </div>
 
----
+```bash
+┌──(root㉿jay-surya)-[~/profile]
+└─$ whoami
 
-## 🚀 About Me
+Jay Surya
 
-```yaml
-Name: Jay Surya
-Education: B.Sc Information Technology
-Location: Madurai, Tamil Nadu
-Role: Full Stack Developer
-Learning: Automation Testing & Cloud Deployment
-
-Passion:
-  - AI Applications
-  - Full Stack Development
-  - Python Projects
-  - Firebase Ecosystem
-  - Software Testing
+B.Sc Information Technology
+Full Stack Developer
+Python Enthusiast
+Firebase Developer
+AI Application Builder
+QA Automation Learner
 ```
 
 ---
 
-## 🛠 Tech Arsenal
+# 💀 SYSTEM STATUS
+
+```yaml
+Name: Jay Surya
+
+Role:
+  - Full Stack Developer
+  - Software Tester
+
+Current_Focus:
+  - Selenium
+  - Playwright
+  - AI Applications
+  - Data Analyst
+
+Status: ONLINE
+```
+
+---
+
+# ⚔️ TECH ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,c,firebase,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,firebase,docker,git,github,vscode"/>
 
 </div>
+
+---
+
+# 🚀 PROJECT DATABASE
+
+## [01] AI INTERVIEW SIMULATOR
+
+```bash
+$ project-info AI-Interview-Simulator
+
+Status: ACTIVE
+
+Features:
+✓ Resume Parsing
+✓ AI Question Generation
+✓ Voice Interviews
+✓ Real-Time Evaluation
+✓ Firebase Authentication
+✓ Analytics Dashboard
+✓ Docker Deployment
+
+Tech:
+Python
+Flask
+Firebase
+Groq API
+Docker
+```
+
+🔗 https://github.com/surya-hash-coder/AI-Interview-Simulator
+
+---
+
+## [02] SKILL SWAP PLATFORM
+
+```bash
+$ project-info Skill-Swap
+
+Status: DEPLOYED
+
+Features:
+✓ Skill Matching
+✓ Real-Time Chat
+✓ Video Calling
+✓ Session Booking
+✓ Email Automation
+✓ Dark Mode
+
+Tech:
+HTML
+CSS
+JavaScript
+Bootstrap
+Firebase
+Firestore
+```
+
+🔗 https://github.com/surya-hash-coder/Skill-Swap
+
+---
+
+# 📊 TERMINAL ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=surya-hash-coder&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
 <br>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=selenium" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-hash-coder&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌟 Featured Projects
-
-## 🤖 AI Interview Simulator
-
-<img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge"/>
-
-### Features
-
-✨ Resume Parsing
-
-🎤 Voice-Based Interviews
-
-🧠 Llama 3.3 70B Integration
-
-📊 Performance Analytics
-
-🔒 Firebase Authentication
-
-🐳 Docker Deployment
-
-### Tech Stack
-
-Python • Flask • Firebase • Groq API • Docker • JavaScript
-
-🔗 Repository
-
-https://github.com/surya-hash-coder/AI-Interview-Simulator
-
----
-
-## 🤝 Skill Swap Platform
-
-<img src="https://img.shields.io/badge/Full%20Stack-Project-success?style=for-the-badge"/>
-
-### Features
-
-🎯 Smart Skill Matching
-
-📅 Session Scheduling
-
-🎥 Jitsi Video Calls
-
-💬 Real-Time Chat
-
-📧 Email Reminders
-
-🌙 Dark Mode UI
-
-### Tech Stack
-
-HTML • CSS • JavaScript • Bootstrap • Firebase • Firestore
-
-🔗 Repository
-
-https://github.com/surya-hash-coder/Skill-Swap
-
----
-
-# 📈 GitHub Analytics
+# 📈 LANGUAGE SCANNER
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surya-hash-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=surya-hash-coder&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-hash-coder&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 Most Used Languages
+# 🏆 ACHIEVEMENT UNLOCKED
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-hash-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=surya-hash-coder&theme=matrix&no-frame=true&column=7"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=surya-hash-coder&theme=tokyonight&no-frame=true&row=1&column=7"/>
+![Snake animation](https://github.com/surya-hash-coder/surya-hash-coder/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 📡 CONNECT
 
-✅ Master Python Development
+```bash
+$ contact --show
 
-✅ Build SaaS Applications
+Email:
+suryanitya7@gmail.com
 
-✅ Learn Advanced Automation Testing
-
-✅ Deploy Projects on Cloud
-
-✅ Contribute to Open Source
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:suryanitya7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/surya-hash-coder">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+GitHub:
+github.com/surya-hash-coder
+```
 
 ---
 
 <div align="center">
 
-## ⚡ Visitor Count
-
-<img src="https://komarev.com/ghpvc/?username=surya-hash-coder&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=surya-hash-coder&color=00ff41&style=for-the-badge"/>
 
 </div>
 
----
+```bash
+┌──(root㉿jay-surya)-[~/future]
+└─$ echo "Code. Build. Automate. Repeat."
 
-<div align="center">
-
-### 🐍 Contribution Snake Animation
-
-![Snake animation](https://github.com/surya-hash-coder/surya-hash-coder/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0EA5E9&height=120&section=footer"/>
+Code. Build. Automate. Repeat.
+```
