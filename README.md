@@ -20,7 +20,7 @@
 ███████║█████╗  ██║     ██║     ██║   ██║
 ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
 ██║  ██║███████╗███████╗███████╗╚██████╔╝
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
 ⚡ About The Developer
 <table align="center"> <tr> <td width="50%">
 🎓 B.Sc Information Technology – PKN Arts & Science College, Madurai
