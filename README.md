@@ -1,8 +1,3 @@
-```html
-<!-- ========================================= -->
-<!-- PREMIUM HERO BANNER -->
-<!-- ========================================= -->
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Surya%20Nitya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Firebase%20Architect%20•%20Automation%20Engineer&descAlignY=58"/>
 </p>
