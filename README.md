@@ -1,139 +1,135 @@
 <div align="center">
-  
-  <!-- Dynamic Waving Header Banner -->
+
+  <!-- Futuristic Cyberpunk Header Banner -->
   <img src="https://vercel.app"/>
-  
-  # Hi 👋, I'm S. JAY SURYA
-  
-  <!-- Typing SVG Animation for Professional Roles -->
-  <img src="https://herokuapp.com+🎓;Full-Stack+Web+Developer+💻;Firebase+Backend+Integrator+⚙️;Automation+Enthusiast+(n8n)+🚀" />
-  
-  <br>
-  
-  <!-- Profile Visitor Counter Badge -->
+
+  <br/>
+
+  <!-- High-End Terminal Typing Animation -->
+  <img src="https://herokuapp.com" />
+
+  <br/>
+
+  <!-- Interactive Badges Grid -->
+  <a href="https://github.com">
+    <img src="https://shields.io"/>
+  </a>
   <img src="https://komarev.com"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🌐 TERMINAL: ABOUT_ME.EXE
 
-* 🎓 **B.Sc Information Technology Graduate** from PKN Arts and Science College, Madurai (2023–2026).
-* 💻 **Passionate Web Developer & QA Engineer** skilled in building robust full-stack applications.
-* ⚙️ **Backend Specialist** with deep experience in Firebase ecosystem integrations.
-* 🚀 **Workflow Automation Practitioner** utilizing **n8n** for low-code process engineering.
-* 🧪 **Testing Enthusiast** with foundational exposure to manual and automated suites (Selenium & Playwright).
+```micromamba
+[Identity]: S. JAY SURYA  
+[Status]  : B.Sc IT Graduate (2023 - 2026) | PKN Arts and Science College, Madurai
+[Mission] : Engineering scalable web ecosystems and low-code operational flows
+[Focus]   : Full-Stack Engineering, Cloud Databases, and Automation Infrastructure
+```
+
+* 🚀 **Core Expertise:** Transforming monolithic architectures into dynamic web portals.
+* ⚡ **Workflow Automation:** Deploying custom logic blocks with **n8n** to save deployment hours.
+* 🛡️ **Quality Assurance:** Implementing systematic regression pipelines with Selenium & Playwright.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 TECHNICAL MATRIX
 
 <div align="center">
-  
-  ### 🌐 Frontend & Core Languages
-  <img src="https://skillicons.dev" />
-  
-  <br>
 
-  ### ⚙️ Backend, Databases & Testing Tools
-  <img src="https://skillicons.dev" />
-  
-  <br>
-
-  ### 🔧 Tools, Workflow Automation & Platforms
-  <img src="https://skillicons.dev" />
-  
-  <!-- Manual Badge for n8n Workflow Tool since it might not be in standard iconsets -->
-  <br>
-  <img src="https://shields.io"/>
+| CATEGORY | TECH STACK |
+| :--- | :--- |
+| **Languages** | <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> |
+| **Frontend Frameworks** | <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> |
+| **Cloud Backend & DB** | <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> |
+| **Automation & DevTools** | <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> |
+| **QA Automation Frameworks** | <img src="https://shields.io"/> <img src="https://shields.io"/> |
 
 </div>
 
 ---
 
-# 📈 GitHub Performance & Insights
+# 🚀 DEPLOYED WORKSPACE PROJECTS
+
+### 🤖 AI Interview Simulator 
+> *A predictive analytical sandbox that parses resumes and creates custom testing pipelines.*
+* 🛠 **Architecture:** Python Flask, Groq LLM (Llama 3.3 70B), Firebase backend systems, Docker layers.
+* 🧬 **Engine Highlights:** Real-time speech evaluation logic, dynamic visual telemetry dashboards, and isolated container deployment modules.
+* 📂 **Source:** `://github.com`
+
+### 🔄 Skill Swap – Shared P2P Exchange Matrix
+> *A full-stack algorithmic matchmaking app enabling automated asset/knowledge transfers.*
+* 🛠 **Architecture:** Vanilla JS (ES6+), Bootstrap 5 core layouts, Firestore engine, Cloud Functions, Brevo.
+* 🧬 **Engine Highlights:** Integrated native web-RTC video grids (Jitsi), real-time encrypted messaging interfaces, and serverless email triggers.
+* 📂 **Source:** `://github.com`
+
+---
+
+# 💼 INDUSTRIAL EXPERIENCE
+
+⚡ **Web Development Intern** | **Jestech, Madurai** *(June 2025 – July 2025)*
+* Engineered production-ready fluid UI modules using HTML5, CSS3, and structural layouts.
+* Hooked asynchronous front-end components into state-managed Firebase Auth structures.
+* Attended weekly scrum sprints, running localized system diagnostic checks to clear debug logs.
+
+---
+
+# 📊 ANALYTICS & HUB METRICS
 
 <div align="center">
-  <!-- Core GitHub Statistics Card -->
-  <img height="180em" src="https://vercel.app"/>
-  
-  <!-- Top Languages Used Widget -->
-  <img height="180em" src="https://vercel.app"/>
+  <!-- Glowing Theme Activity Graphs -->
+  <img height="195em" src="https://vercel.app"/>
+  <img height="195em" src="https://vercel.app"/>
 </div>
 
-### 🔥 Active Code Streak
+<br/>
+
 <div align="center">
-  <img src="https://herokuapp.com"/>
+  <img width="48%" src="https://herokuapp.com"/>
+  <img width="48%" src="https://vercel.app"/>
 </div>
 
-### 📊 Weekly Contribution Analytics
+<br/>
+
 <div align="center">
+  <!-- Achieved Milestone Trophies -->
   <img src="https://vercel.app"/>
 </div>
 
-### 🏆 Profile Trophies
+---
+
+# 🐍 SYSTEM SNAKE SCRIPT
+
 <div align="center">
-  <img src="https://vercel.app"/>
+  <!-- Interactive Matrix Contribution Tracker Snake -->
+  <img src="https://githubusercontent.com" width="100%"/>
 </div>
 
 ---
 
-# 🚀 Featured Projects
-
-### 🌐 [AI Interview Simulator](https://github.com)
-> An AI-powered mock interview tool that parses uploaded PDF resumes to generate custom interview technical evaluations.
-* **Stack:** Python, Flask, Groq (Llama 3.3 70B), Firebase, HTML, CSS, JavaScript, Docker
-* **Features:** Real-time answer evaluation with detailed scoring analytics, integrated voice-input feeds, secure authentication setups, and Docker container deployment configurations.
-
-### 📊 [Skill Swap – Skill Sharing Platform](https://github.com)
-> A full-stack web matching matrix engineered for interactive skill exchange sessions between community developers.
-* **Stack:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, Firebase, Firestore, Jitsi Meet, Cloud Functions
-* **Features:** Native in-browser Jitsi video calls, real-time messaging grids, calendar scheduling infrastructure, automated email triggers via Brevo API, and responsive dark-mode support.
-
----
-
-# 💼 Internship Footprint
-
-* 🏢 **Web Development Intern** at **Jestech, Madurai** *(June 2025 – July 2025)*
-  * Built structured, fully fluid responsive layouts utilizing HTML5, CSS3, and Bootstrap grids.
-  * Tied dynamic workflows directly into Firebase Realtime Databases and Authentication pipelines.
-  * Partnered inside Agile sprints to debug, stress test code quality, and optimize internal build dependencies.
-
----
-
-# 🌐 Connect With Me
+# 📡 ESTABLISH CONNECTION
 
 <div align="center">
-  
-  <!-- GitHub Profile Link -->
+
   <a href="https://github.com">
     <img src="https://shields.io"/>
   </a>
-  
-  <!-- LinkedIn Profile Link (Replace with your actual link identifier) -->
+  &nbsp;&nbsp;
   <a href="https://linkedin.com">
     <img src="https://shields.io"/>
   </a>
-  
-  <!-- Direct Email Contact Link -->
+  &nbsp;&nbsp;
   <a href="mailto:suryanitya7@gmail.com">
     <img src="https://shields.io"/>
   </a>
 
 </div>
 
----
-
-# 🐍 Contribution Grid Snake Animation
-
-<p align="center">
-  <img src="https://githubusercontent.com" />
-</p>
-
----
+<br/>
 
 <div align="center">
+  <!-- Fluid Footer Wave -->
   <img src="https://vercel.app"/>
-  <h3>⭐ Thank you for taking the time to explore my tech showcase! ⭐</h3>
 </div>
