@@ -1,122 +1,58 @@
-<div align="center">
+```html
+<!-- ========================================= -->
+<!-- PREMIUM HERO BANNER -->
+<!-- ========================================= -->
 
-  <!-- Fluid Animated Slice Header Banner -->
-  <img src="https://vercel.app" width="100%"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Surya%20Nitya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Firebase%20Architect%20•%20Automation%20Engineer&descAlignY=58"/>
+</p>
 
-  <br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=🎓+B.Sc+Information+Technology;💻+Full+Stack+Web+Developer;⚙️+Firebase+Backend+Architect;🚀+Automation+Workflow+Engineer;🧪+QA+Tester+%26+Problem+Solver;✨+Building+Scalable+Digital+Experiences" />
+</p>
 
-  <!-- High-End Fluid Typing Script (Migrated to demolab.com endpoint) -->
-  <img src="https://demolab.com+🎓;Full-Stack+Web+Developer+💻;Firebase+Backend+Architect+⚙️;Automation+Workflow+Engineer+🚀" alt="Typing SVG" />
+<p align="center">
 
-</div>
+<a href="https://github.com/YOURUSERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<a href="https://linkedin.com/in/YOURPROFILE">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# 💫 About Me
+<a href="mailto:suryanitya7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-* 🎓 **B.Sc Information Technology Graduate** from PKN Arts and Science College, Madurai (2023–2026).
-* 💻 **Full-Stack Developer** focused on building clean, highly responsive, and user-centric web applications.
-* ⚙️ **Backend Integrator** specializing in secure authentication pipelines and scalable cloud data layers.
-* 🚀 **Automation Practitioner** utilizing low-code engineering engines to maximize project efficiency.
-* 🧪 **QA Tester** with workflow exposure spanning both manual testing methodologies and automated test runners.
+</p>
 
----
+<p align="center">
 
-# 🛠 Tech Stack Matrix
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge&color=38BDF8"/>
 
-<div align="center">
+<img src="https://img.shields.io/github/followers/YOURUSERNAME?style=for-the-badge&color=38BDF8"/>
 
-  ### 🌐 Languages & Frontend Architecture
-  <img src="https://skillicons.dev" />
-  
-  <br/>
+<img src="https://img.shields.io/github/stars/YOURUSERNAME?style=for-the-badge&color=38BDF8"/>
 
-  ### ⚙️ Backend, Core Infrastructure & Testing
-  <img src="https://skillicons.dev" />
-  
-  <br/>
+</p>
 
-  ### 🔧 Tools & Workflow Engines
-  <img src="https://skillicons.dev" />
-  <br/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
+<p align="center">
 
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,nodejs,express,firebase,mongodb,mysql,python,docker,git,github,vscode&perline=9" />
 
----
+</p>
 
-# 🚀 Featured Production Builds
+<p align="center">
 
-### 🤖 [AI Interview Simulator](https://github.com)
-> An AI-powered mock evaluation platform designed to parse candidate resumes and stream personalized real-time interview pipelines.
-* **Stack:** Python Flask, Groq (Llama 3.3 70B), Firebase Backend, Docker Containers.
-* **Key Mechanisms:** Speech-to-text response scoring, telemetry dashboards, user authentication layers, and fully isolated environment staging.
+💻 Full Stack Development &nbsp; • &nbsp;
+⚙️ Cloud Backend Systems &nbsp; • &nbsp;
+🚀 Automation Engineering &nbsp; • &nbsp;
+🧪 Quality Assurance
 
-### 🔄 [Skill Swap – Knowledge Exchange Hub](https://github.com)
-> A full-stack decentralized matchmaking application enabling automated scheduling and direct peer-to-peer knowledge sharing.
-* **Stack:** JavaScript (ES6+), Bootstrap 5, Cloud Functions, Firestore Engine, Brevo.
-* **Key Mechanisms:** In-app real-time messaging grids, native Jitsi Meet video integrations, and automated transactional email routines.
+</p>
 
----
-
-# 💼 Professional History
-
-### 🏢 Web Development Intern — **Jestech, Madurai**
-*June 2025 – July 2025*
-* Engineered production-ready fluid UI modules using semantic layouts and Bootstrap frameworks.
-* Synchronized interactive customer features with robust Firebase Realtime Databases.
-* Collaborated inside active Agile sprints to optimize code maintainability and minimize runtime bugs.
-
----
-
-# 📊 Activity Metrics
-
-<div align="center">
-  <!-- Interactive Animated Charts -->
-  <img height="185em" src="https://vercel.app" />
-  <img height="185em" src="https://vercel.app" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="48%" src="https://herokuapp.com" />
-  <img width="48%" src="https://vercel.app" />
-</div>
-
----
-
-# 🐍 Contribution Snake Grid
-
-<div align="center">
-  <!-- Real-time Animated Contribution Tracker -->
-  <img src="https://githubusercontent.com" width="100%"/>
-</div>
-
----
-
-# 📡 Connect With Me
-
-<div align="center">
-
-  <a href="https://github.com">
-    <img src="https://shields.io"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com">
-    <img src="https://shields.io"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:suryanitya7@gmail.com">
-    <img src="https://shields.io"/>
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Elegant Closing Slice Wave Footer -->
-  <img src="https://vercel.app" width="100%"/>
-</div>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+</p>
+```
