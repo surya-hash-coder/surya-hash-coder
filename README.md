@@ -5,8 +5,8 @@
 
   <br/>
 
-  <!-- High-End Fluid Typing Script -->
-  <img src="https://herokuapp.com+🎓;Full-Stack+Web+Developer+💻;Firebase+Backend+Architect+⚙️;Automation+Workflow+Engineer+🚀" alt="Typing SVG" />
+  <!-- High-End Fluid Typing Script (Migrated to demolab.com endpoint) -->
+  <img src="https://demolab.com+🎓;Full-Stack+Web+Developer+💻;Firebase+Backend+Architect+⚙️;Automation+Workflow+Engineer+🚀" alt="Typing SVG" />
 
 </div>
 
@@ -74,15 +74,15 @@
 
 <div align="center">
   <!-- Interactive Animated Charts -->
-  <img height="185em" src="https://vercel.app"/>
-  <img height="185em" src="https://vercel.app"/>
+  <img height="185em" src="https://vercel.app" />
+  <img height="185em" src="https://vercel.app" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="48%" src="https://herokuapp.com"/>
-  <img width="48%" src="https://vercel.app"/>
+  <img width="48%" src="https://herokuapp.com" />
+  <img width="48%" src="https://vercel.app" />
 </div>
 
 ---
